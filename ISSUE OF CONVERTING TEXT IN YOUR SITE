@@ -1,0 +1,4 @@
+In your site Apostrophe(') gets converted into (â€™) this word which is a UTF8 to ANSI format conversion.
+Please look into it
+Thanks,
+Akash
